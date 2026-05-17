@@ -21,6 +21,7 @@ class Namrata:
     philosophy  = "I learn by building — real problems, real code."
     currently   = "Building AI-powered platforms + job hunting 🎯"
     open_to     = ["Internships", "Entry-level roles", "Collaborations"]
+    community   = "GDG Lead Organizer @ SNJB COE (2025–2026) 🌐"
 ```
 
 ---
@@ -33,7 +34,7 @@ class Namrata:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend**
 
@@ -44,14 +45,14 @@ class Namrata:
 **Backend & DB**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE4B2B?style=for-the-badge&logo=convex&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **AI/ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Tools**
@@ -59,6 +60,7 @@ class Namrata:
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -103,6 +105,18 @@ Built with **C++ · Arduino · Processing IDE**
 
 - Interfaced ultrasonic sensor with buzzer for proximity alerts
 - Processing IDE used to render live distance visualization
+
+---
+
+## 🌐 Community & Leadership
+
+### 🎯 GDG Lead Organizer — SNJB College of Engineering (2025–2026)
+
+> Google Developer Group on Campus — organizing tech events, workshops, and speaker sessions for the engineering community.
+
+- Leading a developer community at SNJB COE, Chandwad
+- Organizing events around Google technologies, AI, and open source
+- Connecting students with industry mentors and learning resources
 
 ---
 
