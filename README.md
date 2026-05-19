@@ -66,14 +66,14 @@ class Namrata:
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Agent Builder Platform](https://github.com/namratapagariya/AI-agent-builder-platform)
-> Full-stack AI platform for building and deploying custom agents from scratch.
+### 💳 [SubTracker — AI-Powered Subscription Manager](https://github.com/namratapagariya/subtracker)
+> Connects to your Gmail, scans subscription and trial emails, classifies them with Gemini AI, and surfaces everything on a clean dashboard — what you're paying, what's expiring, and a one-click cancel flow.
 
-Built with **Next.js · React · Convex DB · Clerk Auth · Arcjet · AI SDKs**
+Built with **React + Vite · Node.js + Express · Gmail API · Google OAuth 2.0 · Gemini AI · Prisma + SQLite · Passport.js**
 
-- Designed with real-time reactive DB (Convex) for low-latency state sync
-- Integrated Clerk for seamless multi-provider auth
-- Rate-limited via Arcjet for production-grade bot protection
+- Classification evolved from brittle regex keyword matching to a full LLM semantic pipeline with structured JSON output — the architectural shift from pattern-matching to intent-understanding is what made it actually work
+- Pluggable AI provider design: the classifier is abstracted behind an interface, so swapping Gemini for OpenAI or Claude is a one-line config change
+- Confidence scoring on each subscription, smart filtering to only persist `ACTIVE_TRIAL`, `ACTIVE_SUBSCRIPTION`, and `BILLING_NOTICE` states, and Gmail message ID upserts to prevent duplicates at the DB layer
 
 ---
 
@@ -88,13 +88,14 @@ Built with **Python · Keras · LSTM · Google Colab · Matplotlib**
 
 ---
 
-### 🌐 [Food Wastage Management System](https://github.com/namratapagariya/Food-wastage-managment-system)
-> A donor-needy matching web app to minimize food wastage in communities.
+### 👨‍👩‍👧 [parentConnect — School Monitoring Platform](https://github.com/namratapagariya/parentConnect)
+> A three-role platform where students, teachers, and parents each get a tailored dashboard to monitor attendance, performance, and communication in one place.
 
-Built with **HTML5 · CSS3 · JavaScript · PHP · MySQL**
+Built with **HTML · CSS · JavaScript · Django · OpenCV**
 
-- Role-based interface for donors and recipients
-- Server-side PHP with SQL for real-time listing and claim logic
+- Attendance is marked automatically via OpenCV face recognition — no manual entry, no proxies
+- Strict role-based access control: parents see only their child's data, teachers manage their class, admins oversee the whole system
+- Django backend handles session management and serves role-specific views from a single unified database
 
 ---
 
